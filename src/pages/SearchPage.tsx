@@ -40,7 +40,7 @@ export default function SearchPage() {
 
   return (
     <div className="container py-8">
-      <div className="mb-8">
+      <div className="mb-8 text-center">
         <h1 className="text-3xl font-bold glow-text">Rechercher</h1>
         <p className="text-muted-foreground mt-1">
           Explorez des milliers d'œuvres du Metropolitan Museum et de l'Art Institute of Chicago
