@@ -47,7 +47,7 @@ export default function SearchPage() {
         </p>
       </div>
 
-      <div className="relative max-w-xl mb-8">
+      <div className="relative max-w-xl mx-auto mb-8">
         <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
         <Input
           value={query}
